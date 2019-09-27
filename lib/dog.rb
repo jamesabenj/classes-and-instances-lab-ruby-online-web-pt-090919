@@ -1,1 +1,4 @@
-dog.class = String
+class Dog 
+end
+
+fido = Dog.new
